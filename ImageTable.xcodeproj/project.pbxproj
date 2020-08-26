@@ -50,6 +50,7 @@
 		E98B68C924F60B6B00225299 /* TableImagesScreenOutputMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98B68C824F60B6B00225299 /* TableImagesScreenOutputMock.swift */; };
 		E98B68CB24F60B7E00225299 /* TableImagesRouterMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98B68CA24F60B7D00225299 /* TableImagesRouterMock.swift */; };
 		E98B68CD24F60D5F00225299 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E98B68CC24F60D5F00225299 /* .gitignore */; };
+		E98B68CF24F60D9200225299 /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = E98B68CE24F60D9200225299 /* .gitattributes */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -110,6 +111,7 @@
 		E98B68C824F60B6B00225299 /* TableImagesScreenOutputMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableImagesScreenOutputMock.swift; sourceTree = "<group>"; };
 		E98B68CA24F60B7D00225299 /* TableImagesRouterMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableImagesRouterMock.swift; sourceTree = "<group>"; };
 		E98B68CC24F60D5F00225299 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
+		E98B68CE24F60D9200225299 /* .gitattributes */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitattributes; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +234,7 @@
 		E917317C24F47A3200E20C3C /* Non-iOS Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E98B68CE24F60D9200225299 /* .gitattributes */,
 				E98B68CC24F60D5F00225299 /* .gitignore */,
 			);
 			path = "Non-iOS Resources";
@@ -529,6 +532,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E98B68CF24F60D9200225299 /* .gitattributes in Resources */,
 				E98B68CD24F60D5F00225299 /* .gitignore in Resources */,
 				E917316124F476AA00E20C3C /* LaunchScreen.storyboard in Resources */,
 				E917318124F47A7900E20C3C /* Localizable.strings in Resources */,
